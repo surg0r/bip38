@@ -2,7 +2,7 @@
 
 Python 2.7 BIP38 paper wallet creator - emits a bip38-QR.jpg file.
 
-A quick and dirty script using libraries: bip38, PIL and bitcoin.
+A quick and dirty script using libraries: bip38, PIL, qrcode and bitcoin.
 
 It is a commandline script which either generates a fresh random private key or accepts a user-supplied key, then
 creates a jpg with a bitcoin address and a bip38 address with corresponding QR codes (with error protection) painted
