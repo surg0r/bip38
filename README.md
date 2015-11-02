@@ -1,6 +1,6 @@
 # bip38
 
-Python 2.7 BIP38 paper wallet creator
+Python 2.7 BIP38 paper wallet creator - emits a bip38-QR.jpg file.
 
 A quick and dirty script using libraries: bip38, PIL and bitcoin.
 
